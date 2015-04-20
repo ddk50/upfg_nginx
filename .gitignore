@@ -12,7 +12,6 @@ Makefile
 autotest.core
 tmp
 old/
-nginx-*
 .\#*
 *~
 \#*\#
